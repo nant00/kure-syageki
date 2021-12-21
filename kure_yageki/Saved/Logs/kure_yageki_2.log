@@ -902,3 +902,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.21-09.11.52:006][913]LogSlate: Window 'Shape_Sphere_DM' being destroyed
 [2021.12.21-09.11.52:010][913]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2021.12.21-09.11.52:010][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.12.03:671][750]LogBlueprint: Warning: [AssetLog] C:\Users\Shigu\OneDrive\デスクトップ\unrial\kure-syageki\kure_yageki\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputActionイベントは  InputAction ResetVR  に対して不明なアクション 'ResetVR' を参照しています
+[2021.12.21-09.12.03:803][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/destry.destry
+[2021.12.21-09.12.03:977][750]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.21-09.12.04:824][750]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2021.12.21-09.12.04:824][750]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.21-09.12.04:865][751]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.21-09.12.06:788][938]BlueprintLog: New page: destry をコンパイル
+[2021.12.21-09.12.06:827][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.12.21-09.12.06:871][938]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.21-09.12.06:871][938]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2021.12.21-09.12.08:625][108]LogSlate: Window 'destry' being destroyed
+[2021.12.21-09.12.08:632][108]LogSlate: Window 'destry' being destroyed
+[2021.12.21-09.12.08:637][108]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.21-09.12.08:637][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.12.12:073][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.12.21-09.12.12:144][510]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.12.21-09.12.12:144][510]Cmd: MAP LOAD FILE="../../../../kure-syageki/kure_yageki/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.21-09.12.12:144][510]LightingResults: New page: ライティングのビルド
+[2021.12.21-09.12.12:144][510]LoadErrors: New page: マップをロード中: FirstPersonExampleMap.umap
+[2021.12.21-09.12.12:145][510]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.21-09.12.12:145][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.12.12:145][510]MapCheck: New page: マップをチェック
+[2021.12.21-09.12.12:145][510]LightingResults: New page: <何も選択されていません>
+[2021.12.21-09.12.12:157][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.21-09.12.12:161][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.12.21-09.12.12:162][510]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.12.21-09.12.12:244][510]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.21-09.12.12:244][510]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.21-09.12.12:259][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.12.21-09.12.12:267][510]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.21-09.12.12:267][510]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.131ミリ秒かかりました。
+[2021.12.21-09.12.12:267][510]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.123
+[2021.12.21-09.12.13:666][669]LogTemp: Repeating last play command: 選択ビューポート
+[2021.12.21-09.12.13:674][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.21-09.12.13:675][669]PIE: New page: PIEセッション: FirstPersonExampleMap (2021/12/22 3:12:13)
+[2021.12.21-09.12.13:676][669]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.21-09.12.13:677][669]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.21-09.12.13:677][669]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.21-09.12.13:689][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012304s)
+[2021.12.21-09.12.13:690][669]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.21-09.12.13:690][669]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.12.21-09.12.13:690][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013494s)
+[2021.12.21-09.12.13:704][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.21-09.12.13:708][669]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.21-09.12.13:708][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.21-09.12.13:708][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.21-09.12.13:709][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.21-09.12.13:709][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.21-09.12.13:709][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.21-09.12.13:709][669]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.21-09.12.13:712][669]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.21-09.12.13:712][669]LogAudioMixer: Display: 1: FrontRight
+[2021.12.21-09.12.13:726][669]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.12.21-09.12.13:726][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.21-09.12.13:726][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.21-09.12.13:726][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.21-09.12.13:727][669]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.21-09.12.13:727][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.21-09.12.13:727][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.21-09.12.13:728][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.21-09.12.13:728][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.21-09.12.13:728][669]LogInit: FAudioDevice initialized.
+[2021.12.21-09.12.13:728][669]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.12.21-09.12.13:734][669]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.21-09.12.13:736][669]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.12.21-18.12.13
+[2021.12.21-09.12.13:736][669]LogWorld: Bringing up level for play took: 0.001899
+[2021.12.21-09.12.13:737][669]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.21-09.12.13:740][669]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.21-09.12.13:740][669]PIE: サーバーにログインしました
+[2021.12.21-09.12.13:742][669]PIE: PIE合計開始時間 0.07 秒。
+[2021.12.21-09.12.21:062][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.21-09.12.21:062][510]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.21-09.12.21:062][510]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.21-09.12.21:062][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.12.21:068][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.21-09.12.21:073][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.12.21:085][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.21-09.12.21:093][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.21-09.12.21:094][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.21-09.12.21:146][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.12.21-09.12.21:168][511]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.21-09.13.41:046][ 36]LogSlate: Window 'プラグイン' being destroyed
+[2021.12.21-09.13.41:049][ 36]LogSlate: Window 'プラグイン' being destroyed
+[2021.12.21-09.13.41:049][ 36]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.12.21-09.13.44:481][445]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/scorewiget.scorewiget
+[2021.12.21-09.13.44:891][445]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.12.21-09.13.46:302][580]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2021.12.21-09.13.46:305][580]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2021.12.21-09.13.47:260][692]LogSlate: Window 'scorewiget' being destroyed
+[2021.12.21-09.13.47:266][692]LogSlate: Window 'scorewiget' being destroyed
+[2021.12.21-09.13.47:299][692]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.21-09.13.47:299][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.13.47:309][692]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.21-09.13.47:309][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.21-09.13.49:721][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.12.21-09.13.51:331][956]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.21-09.13.51:394][956]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/scorewiget.scorewiget
+[2021.12.21-09.13.52:281][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.12.21-09.13.52:294][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.12.21-09.13.52:303][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.21-09.14.35:438][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.12.21-09.14.36:655][616]LogSlate: Window 'コンテンツを保存' being destroyed
+[2021.12.21-09.14.36:676][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/destry" FILE="../../../../kure-syageki/kure_yageki/Content/FirstPersonBP/Blueprints/destry.uasset" SILENT=true
+[2021.12.21-09.14.36:692][616]LogSavePackage: Moving '../../../../kure-syageki/kure_yageki/Saved/destry556F2A2E4B819703DE6B2084074D9B52.tmp' to '../../../../kure-syageki/kure_yageki/Content/FirstPersonBP/Blueprints/destry.uasset'
+[2021.12.21-09.14.36:702][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../kure-syageki/kure_yageki/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2021.12.21-09.14.36:751][616]LogSavePackage: Moving '../../../../kure-syageki/kure_yageki/Saved/FirstPersonCharacterA86BBAF54F703BE11062429896A31DD4.tmp' to '../../../../kure-syageki/kure_yageki/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.12.21-09.14.36:777][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.12.21-09.14.36:805][616]LogSavePackage: Moving '../../../../kure-syageki/kure_yageki/Saved/FirstPersonExampleMap9DFD7AF143DFFC48A57624A271C63059.tmp' to '../../../../kure-syageki/kure_yageki/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.12.21-09.14.36:812][616]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.047
+[2021.12.21-09.14.36:824][616]AssetCheck: New page: アセット保存：複数のアセット
+[2021.12.21-09.14.36:824][616]LogContentValidation: Display: Blueprint /Game/FirstPersonBP/Blueprints/destry.destry を検証しています
+[2021.12.21-09.14.36:824][616]LogContentValidation: Display: Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter を検証しています
+[2021.12.21-09.14.36:824][616]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap を検証しています
