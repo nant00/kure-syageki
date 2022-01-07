@@ -1136,3 +1136,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.07-07.39.39:917][899]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
 [2022.01.07-07.39.41:416][ 46]LogSlate: Window 'SequencerGraphEditor' being destroyed
 [2022.01.07-07.39.41:425][ 46]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.01.07-07.41.09:360][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.01.07-07.41.09:365][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP/MAP' took 0.036
+[2022.01.07-07.41.09:365][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/Widget_Option] ([2] browsable assets)...
+[2022.01.07-07.41.09:365][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Widget_Option]
+[2022.01.07-07.41.09:380][277]LogSavePackage: Moving '../../../../kure-syageki/kure_yageki/Saved/Widget_Option_Auto2C6D54BC94EA937101530C7ADC20BE059.tmp' to '../../../../kure-syageki/kure_yageki/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Widget_Option_Auto2.uasset'
+[2022.01.07-07.41.09:382][277]LogFileHelpers: Auto-saving content packages took 0.017
